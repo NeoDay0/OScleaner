@@ -4,7 +4,8 @@ OScleaner** is a lightweight Python GUI tool for Linux that scans your system fo
 
 **OScleaner** is a lightweight Python GUI tool for Linux that scans your system for broken `.desktop` launchers and helps you safely remove them. Ideal for keeping your application menu clean on Parrot OS, Kali Linux, Ubuntu, and other Debian-based distros.
 
-![OScleaner Banner](https://your-screenshot-url-here.png)
+![OScleaner Banner]![Screenshot_2025-07-05_13_28_49](https://github.com/user-attachments/assets/1473c043-ed18-4f02-bb92-7286e1e53352)
+
 
 ---
 
